@@ -7,7 +7,7 @@ It was used to compare three evolutionary-based algorithms: Differential evoluti
 
 View the commented example file /examples/Parallel.cpp to see how to use the library and to view supported parameters and options.
 
-About `SMART`
+About SMART
 ------
 `SMART` is a collection of toolboxes developed and maintained since 2015 by the department of Mechanical and Aerospace Engineer of Strathclyde University. `SMART-O2CPP` in particular, is a collection of optimisation and optimal control transcription techniques.
 
@@ -26,9 +26,9 @@ Features
 Requirements
 ------
 * C++11 compatible compiler
-  GCC prefered
-  Intel ICC works
-  MSVC might work
+  * GCC prefered
+  * Intel ICC works
+  * MSVC might work
 
 * CMake 3.0+
 
